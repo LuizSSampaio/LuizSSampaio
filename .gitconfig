@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Luiz Henrique Silva Sampaio
+	email = luizhsampaio07@gmail.com
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[core]
+	editor = lvim
