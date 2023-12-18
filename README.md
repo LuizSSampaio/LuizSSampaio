@@ -29,7 +29,3 @@
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/LuizSSampaio"><img src="https://github-readme-stats.vercel.app/api?username=LuizSSampaio&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LuizSSampaio's GitHub stats" /></a>
-
-### Support Me
-
-<a href="https://www.ko-fi.com/lsamp"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
