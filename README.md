@@ -2,7 +2,7 @@
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my website](http://lsamp.net)
-* ✉️  You can contact me at [luizhsampeio07@gmail.com](mailto:luizhsampeio07@gmail.com)
+* ✉️  You can contact me at [luizhsampaio07@gmail.com](mailto:luizhsampaio07@gmail.com)
 * 🧠  I'm learning DevOps, .NET and PostgreSQL
 
 ### Skills
