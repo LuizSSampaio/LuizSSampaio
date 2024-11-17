@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luiz Henrique 
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [my website](http://lsamp.net)
+* 🖥️  See my portfolio at [my website](http://lsamp.dev)
 * ✉️  You can contact me at [luizhsampaio07@gmail.com](mailto:luizhsampaio07@gmail.com)
 * 🧠  I'm learning Rust and Lua
 
