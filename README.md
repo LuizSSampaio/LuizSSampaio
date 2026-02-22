@@ -3,7 +3,7 @@
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [my website](http://lsamp.dev)
 * ✉️  You can contact me at [luizhsampaio07@gmail.com](mailto:luizhsampaio07@gmail.com)
-* 🧠  I'm learning Rust
+* 🧠  I'm always learning something new!
 
 ### Socials
 
